@@ -59,4 +59,4 @@ else:
 print("Aire du quadrilatère ")
 #D étant l'image de C par la translation de vecteur BC, alors vecteur CD= vecteur BC donc ABCD est un parallélogramme et donc, son aire est égale à AB * BC
 aire = ab * bc
-print(f"L'aire est : {aire.round(2)} m²")
+print(f"L'aire est : {aire.round(2)} m²")# Revise le Jour 3.
